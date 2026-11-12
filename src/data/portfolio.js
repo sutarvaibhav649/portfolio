@@ -25,19 +25,19 @@ export const projects = [
     technologies: ["C++20", "CMake", "OOP", "Repository pattern"],
     repositoryUrl: "https://github.com/sutarvaibhav649/todo_cli",
     demoUrl: "",
-    status: "In development",
-    mark: "{ }",
+    status: "Project",
+    mark: "✳",
   },
   {
     number: "02",
     name: "Bank Management System",
     category: "Full-stack",
     description:
-      "A full-stack application with a C++ backend using Drogon and a React frontend, exploring API-driven application design.",
-    technologies: ["C++", "Drogon", "React", "REST APIs"],
+      "A full-stack application with a SpringBoot as Backend and Angualar.js as frontend, exploring API-driven application design.",
+    technologies: ["Java","SpringBoot","Spring Security","Angular","REST APIs"],
     repositoryUrl: "",
     demoUrl: "",
-    status: "Project",
+    status: "In development",
     mark: "{ }",
   },
   {
@@ -69,9 +69,12 @@ export const projects = [
 
 export const skillGroups = [
   { title: "Languages", items: "Java, C++, SQL, JavaScript" },
-  { title: "Backend", items: "Spring Boot fundamentals, Drogon, REST API design" },
-  { title: "Frontend", items: "React, HTML, CSS, responsive UI" },
-  { title: "Developer tools", items: "Linux, Git, CMake, Docker, Vim" },
+  { title: "Backend", items: "Spring Boot fundamentals, Node.js, Express.js, REST API design" },
+  { title: "Database", items: "PostgreSQL, MongoDB, Redis"},
+  { title: "AI/ML Application", items: "RAG, Vector Search, Semantic Search, AI-powered Applications"},
+  { title: "Programming & CS", items: "Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks"},
+  { title: "Developer tools", items: "Linux, Git, CMake, Docker, Vim, Postman, Maven" },
+  { title: "Frontend", items: "Angular.js, HTML, CSS, responsive UI" },
 ];
 
 export const principles = [
