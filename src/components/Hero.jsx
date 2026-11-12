@@ -25,7 +25,7 @@ export default function Hero({ profile }) {
         </div>
         <div className="hero-meta" aria-label="Primary technologies">
           <span><Code2 size={15} aria-hidden="true" /> Java · C++ · REST APIs</span>
-          <span>React · Spring Boot</span>
+          <span>Angular · Spring Boot</span>
           <span>Linux · Git · CMake</span>
         </div>
       </div>
