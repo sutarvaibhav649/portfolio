@@ -12,7 +12,7 @@ export const profile = {
   email: "sutar.vaibhav649@gmail.com", // Add your professional email, e.g. "hello@example.com"
   github: "https://github.com/sutarvaibhav649", // Add your GitHub profile URL
   linkedin: "https://linkedin.com/in/vaibhavsutar649", // Add your LinkedIn profile URL
-  resumeUrl: "/vaibhav_resume.pdf", // Add a public PDF URL or a file in /public
+  resumeUrl: "/Vaibhav_Sutar_Resume.pdf", // Add a public PDF URL or a file in /public
 };
 
 export const projects = [
